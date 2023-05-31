@@ -1,0 +1,20 @@
+.content {
+  font-size: 1.5rem;
+  color: #3a3a3a;
+  width: 90%;
+  max-width: 40em;
+  margin: auto;
+  margin-top: 8rem;
+  text-align: center;
+}
+
+.content button {
+  margin-top: 20px;
+  width: 50%;
+  font: inherit;
+  padding: 0.25rem 0.5rem;
+  background-color: #03be9f;
+  border: 1px solid #03be9f;
+  color: #dafff7;
+  border-radius: 4px;
+}
